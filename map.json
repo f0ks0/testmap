@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/map2.json"
+                 "value":"https:\/\/github.com\/f0ks0\/testmap\/map2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
