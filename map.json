@@ -26,11 +26,6 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"..\/testmap\/map2.json"
-                }, 
-                {
-                 "name":"exitUrl.....",
-                 "type":"string",
-                 "value":"..\/map2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
