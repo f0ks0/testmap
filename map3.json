@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/testmap\/map.json"
+                 "value":"..\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
