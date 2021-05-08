@@ -22,7 +22,7 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"bitte Kreditkarteninfos hinterlegen!"
+                 "value":"LEERTASTE ODER ENTER DR\u00dcCKEN F\u00dcR MEETING"
                 }],
          "type":"tilelayer",
          "visible":true,
