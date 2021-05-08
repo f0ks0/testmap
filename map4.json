@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/testmap\/map3.json"
+                 "value":"..\/testmap\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
